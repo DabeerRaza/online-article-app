@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/online-article-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/online-article-app/static/js/main.d60307a1.chunk.js",
+    "main.js.map": "/online-article-app/static/js/main.d60307a1.chunk.js.map",
+    "runtime-main.js": "/online-article-app/static/js/runtime-main.c95f2d00.js",
+    "runtime-main.js.map": "/online-article-app/static/js/runtime-main.c95f2d00.js.map",
+    "static/js/2.c56e2d42.chunk.js": "/online-article-app/static/js/2.c56e2d42.chunk.js",
+    "static/js/2.c56e2d42.chunk.js.map": "/online-article-app/static/js/2.c56e2d42.chunk.js.map",
+    "index.html": "/online-article-app/index.html",
+    "precache-manifest.ce5997e054a6e8d122c4016262596299.js": "/online-article-app/precache-manifest.ce5997e054a6e8d122c4016262596299.js",
+    "service-worker.js": "/online-article-app/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/online-article-app/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/online-article-app/static/media/logo.25bf045c.svg"
+  }
+}
